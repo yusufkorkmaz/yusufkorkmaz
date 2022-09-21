@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif
+![](https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 <!--
 **yusufkorkmaz/yusufkorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
