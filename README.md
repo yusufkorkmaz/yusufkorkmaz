@@ -1,4 +1,3 @@
-### Hi there 👋                                                                   
 ![](https://media.giphy.com/media/aB48KqJ4A5lHsN0HQR/giphy.gif) 
 
 
