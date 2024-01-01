@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/aB48KqJ4A5lHsN0HQR/giphy.gif) 
 
-[👨🏻‍💻 - YouTube Channel - 👨🏻‍💻](https://www.youtube.com/channel/UCW469fCWHhw6YpQx4htp7mA) [- LinkedIn - 👨🏻‍💻](https://www.linkedin.com/in/yusufkorkmaz98/)
+[LinkedIn - 👨🏻‍💻](https://www.linkedin.com/in/yusufkorkmaz98/)
 <!--
 **yusufkorkmaz/yusufkorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
