@@ -44,7 +44,5 @@ I’m especially interested in frontend work where **engineering and visual craf
 ---
 
 <p align="center">
-  <a href="https://yusufkorkmaz.dev"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yusufkorkmaz98/"><b>LinkedIn</b></a>
 </p>
