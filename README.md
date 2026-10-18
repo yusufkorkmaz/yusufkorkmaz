@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/frontend-hero-fast.svg" alt="Yusuf Korkmaz — Frontend Engineer" width="100%" />
+  <img src="./assets/frontend-hero-fast.svg" alt="Yusuf Korkmaz — Frontend Engineer" width="100%" loading="eager" />
 </p>
 
 ## I build interfaces that feel finished.
